@@ -132,6 +132,9 @@ Healthcare AI Assistant Pro addresses these challenges through:
 - **Quality Reports**: Data validation and system performance documentation
 
 ### ⚙️ System Monitor
+
+**[System Monitor Preview](https://github.com/Hassan0397/Healthcare-AI-Assistant-Pro-/blob/main/System%20Monitor%20Preview.png)**
+
 - **Performance Tracking**: Real-time system metrics and response times
 - **Health Monitoring**: Application status and resource utilization
 - **Alert System**: Proactive notification of system issues
