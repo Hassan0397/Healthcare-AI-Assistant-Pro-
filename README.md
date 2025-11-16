@@ -289,6 +289,10 @@ Healthcare AI Assistant Pro/
 
 ## 🚀 Getting Started
 
+## Download Project From Google Drive 
+
+**[Download](https://drive.google.com/drive/folders/1JfoRHovm2fFrFPkkM4at8Kpeu-1bsHhV?usp=sharing)**
+
 ### Prerequisites
 - Python 3.8 or higher
 - pip package manager
