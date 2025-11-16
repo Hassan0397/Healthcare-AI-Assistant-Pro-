@@ -108,6 +108,9 @@ Healthcare AI Assistant Pro addresses these challenges through:
 - **Predictive Modeling**: Advanced analytics for pattern recognition
 
 ### ⚡ Batch Processor
+
+**[Batch Processor Preview](https://github.com/Hassan0397/Healthcare-AI-Assistant-Pro-/blob/main/Batch%20Processor%20Preview%20.png)**
+
 - **Scalable Processing**: Simultaneous risk assessment for multiple patients
 - **Configurable Batches**: Flexible batch sizes (10-1000 patients)
 - **Population Health**: Aggregate risk analysis and reporting
