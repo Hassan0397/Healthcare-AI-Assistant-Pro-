@@ -41,6 +41,17 @@ Healthcare AI Assistant Pro addresses these challenges through:
 ## ✨ Key Features
 
 ### 🏠 Executive Dashboard
+
+**[Dashboard Preview 1](https://github.com/Hassan0397/Healthcare-AI-Assistant-Pro-/blob/main/Dashboard%20Preview%201.png)**
+
+**[Dashboard Preview 2](https://github.com/Hassan0397/Healthcare-AI-Assistant-Pro-/blob/main/Dashboard%20Preview%202.png)**
+
+**[Dashboard Preview 3](https://github.com/Hassan0397/Healthcare-AI-Assistant-Pro-/blob/main/Dashboard%20Preview%203.png)**
+
+**[Dashboard Preview 4](https://github.com/Hassan0397/Healthcare-AI-Assistant-Pro-/blob/main/Dashboard%20Preview%204.png)**
+
+**[Dashboard Preview 5](https://github.com/Hassan0397/Healthcare-AI-Assistant-Pro-/blob/main/Dashboard%20Preview%205.png)**
+
 - **Real-time Metrics**: Live patient statistics and system performance
 - **Risk Distribution**: Visual breakdown of risk categories across patient population
 - **Trend Analysis**: Historical performance and risk pattern tracking
