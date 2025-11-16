@@ -71,6 +71,11 @@ Healthcare AI Assistant Pro addresses these challenges through:
 - **Data Profiling**: Comprehensive data structure and quality reporting
 
 ### 🎯 Risk Predictor
+
+**[Risk Prediction Preview 1](https://github.com/Hassan0397/Healthcare-AI-Assistant-Pro-/blob/main/Risk%20Prediction%20Preview%201.png)**
+
+**[Risk Prediction Preview 2](https://github.com/Hassan0397/Healthcare-AI-Assistant-Pro-/blob/main/Risk%20Prediction%20Preview%202.png)**
+
 - **Individual Assessment**: Single patient risk prediction with confidence scores
 - **Clinical Factors**: Age, diagnosis, vitals, and historical data integration
 - **Risk Categorization**: Critical/High/Medium/Low classification
