@@ -117,6 +117,15 @@ Healthcare AI Assistant Pro addresses these challenges through:
 - **Efficiency Optimization**: High-throughput processing capabilities
 
 ### 📋 Report Generator
+
+**[Report Generator Preview 1](https://github.com/Hassan0397/Healthcare-AI-Assistant-Pro-/blob/main/Report%20Generator%20Preview%201.png)**
+
+**[Report Generator Preview 2](https://github.com/Hassan0397/Healthcare-AI-Assistant-Pro-/blob/main/Report%20Generator%20Preview%202.png)**
+
+**[Report Generator Preview 3](https://github.com/Hassan0397/Healthcare-AI-Assistant-Pro-/blob/main/Report%20Generator%20Preview%203.png)**
+
+**[Report Generator Preview 4](https://github.com/Hassan0397/Healthcare-AI-Assistant-Pro-/blob/main/Report%20Generator%20Preview%204.png)**
+
 - **Professional Documentation**: Healthcare-grade report generation
 - **Multiple Formats**: PDF, HTML, and Markdown export options
 - **Clinical Summaries**: Patient-specific risk assessment reports
