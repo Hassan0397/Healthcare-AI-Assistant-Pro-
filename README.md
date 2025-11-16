@@ -82,6 +82,13 @@ Healthcare AI Assistant Pro addresses these challenges through:
 - **Actionable Recommendations**: Clinical intervention suggestions
 
 ### 🤖 AI Explainability
+
+**[AI Explainability Preview 1](https://github.com/Hassan0397/Healthcare-AI-Assistant-Pro-/blob/main/AI%20Explainability%20Preview%201.png)**
+
+**[AI Explainability Preview 2](https://github.com/Hassan0397/Healthcare-AI-Assistant-Pro-/blob/main/AI%20Explainability%20Preview%202.png)**
+
+**[AI Explainability Preview 3](https://github.com/Hassan0397/Healthcare-AI-Assistant-Pro-/blob/main/AI%20Explainability%20Preview%203.png)**
+
 - **SHAP Analysis**: Global and local feature importance visualization
 - **LIME Interpretations**: Instance-level model decision explanations
 - **Feature Impact**: Interactive charts showing prediction drivers
