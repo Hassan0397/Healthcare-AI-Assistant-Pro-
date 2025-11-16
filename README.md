@@ -11,3 +11,10 @@ Hospital readmissions represent a significant challenge in healthcare systems wo
 - **Patient Outcomes**: Unplanned readmissions indicate potential care gaps
 - **Resource Strain**: Repeated admissions overload healthcare facilities
 - **Quality Metrics**: Readmission rates are key quality indicators for hospitals
+
+### Current Limitations
+- Traditional methods lack predictive accuracy
+- Limited transparency in risk assessment decisions
+- Inability to provide real-time risk monitoring
+- Lack of personalized intervention recommendations
+- Poor integration of data analytics in clinical workflows
