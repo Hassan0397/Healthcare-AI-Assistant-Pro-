@@ -95,6 +95,13 @@ Healthcare AI Assistant Pro addresses these challenges through:
 - **Model Transparency**: Complete visibility into AI decision process
 
 ### 📈 Advanced Analytics
+
+**[Advanced Analytics Preview 1](https://github.com/Hassan0397/Healthcare-AI-Assistant-Pro-/blob/main/Advanceed%20Analytics.png)**
+
+**[Advanced Analytics Preview 2](https://github.com/Hassan0397/Healthcare-AI-Assistant-Pro-/blob/main/Advanceed%20Analytics%20Preview%202.png)**
+
+**[Advanced Analytics Preview 3](https://github.com/Hassan0397/Healthcare-AI-Assistant-Pro-/blob/main/Advanceed%20Analytics%20Preview%203.png)**
+
 - **Correlation Analysis**: Feature relationship heatmaps and patterns
 - **Risk Patterns**: Diagnosis-based and demographic risk trends
 - **Statistical Insights**: Comprehensive data exploration tools
