@@ -58,6 +58,13 @@ Healthcare AI Assistant Pro addresses these challenges through:
 - **System Monitoring**: Application health and performance alerts
 
 ### 🔍 Data Explorer
+
+**[Data Exploration Preview](https://github.com/Hassan0397/Healthcare-AI-Assistant-Pro-/blob/main/Data%20Exploration.png)**
+
+**[Data Exploration Preview 1](https://github.com/Hassan0397/Healthcare-AI-Assistant-Pro-/blob/main/Data%20Exploration%201.png)**
+
+**[Data Exploration Preview 2](https://github.com/Hassan0397/Healthcare-AI-Assistant-Pro-/blob/main/Data%20Exploration%202.png)**
+
 - **Multi-source Integration**: Sample data, CSV upload, database connectivity
 - **Data Quality Assessment**: Automated validation and quality scoring
 - **Interactive Analysis**: Statistical summaries and distribution visualizations
