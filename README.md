@@ -115,3 +115,37 @@ The project includes comprehensive notebooks for different stages of development
 - **Content Formatting**: Professional healthcare documentation
 - **Export Functions**: Multi-format output capabilities
 - **Customization**: Template customization and styling
+
+## 🛠 Technical Architecture
+
+### System Components
+
+Healthcare AI Assistant Pro/
+
+├── 📁 app/
+
+│ ├── main.py # Streamlit application entry point
+
+│ ├── model_utils.py # ML model interface and predictions
+
+│ ├── explain_utils.py # SHAP/LIME explanation engine
+
+│ └── data_loader.py # Data management and validation
+
+├── 📁 notebooks/
+
+│ ├── 01_data_exploration.ipynb
+
+│ ├── 02_model_training.ipynb
+
+│ ├── 03_explainable_ai.ipynb
+
+│ └── 04_genai_reporting.ipynb
+
+├── 📁 data/ # Sample datasets
+
+├── 📁 models/ # Trained ML models
+
+├── 📁 reports/ # Generated reports
+
+└── 📁 logs/ # Application logs
